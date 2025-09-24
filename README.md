@@ -4,9 +4,6 @@
 <p align="center">
   <b>Full Stack Developer | Data Science & AI Enthusiast | Biochemistry Grad</b>
 </p>
-<p align="center">
-  <img src="https://keanucodes.netlify.app/portrait.jpg" alt="Keanu Sida portrait" width="150" style="border-radius:50%;" />
-</p>
 
 ---
 
@@ -74,7 +71,7 @@ Git · GitHub · VS Code · Docker · Postman · Figma · Cursor
   Community platform for sustainable living — join EcoSquads, explore EcoPods  
   <sub>HTML · CSS · JavaScript</sub>
 
-- **Blotting Innovations**  
+- **[Blotting Innovations](https://blottinginnovations.com/)**  
   Biotech platform for high-throughput protein analysis  
   <sub>HubSpot CMS · HTML · CSS · JavaScript</sub>
 
@@ -84,7 +81,7 @@ Git · GitHub · VS Code · Docker · Postman · Figma · Cursor
 
 **Full Stack Developer** (Freelance)  
 2023–Present  
-Built 10+ client projects, delivering 100% satisfaction with fully responsive, API-driven apps.
+Built several client projects, delivering 100% satisfaction with fully responsive, API-driven apps.
 
 **Geospatial Analyst Intern** (MapLabs, Inc.)  
 2023–2024  
